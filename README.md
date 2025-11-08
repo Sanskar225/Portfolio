@@ -1,5 +1,5 @@
 # Sanskar Sinha - Portfolio
-
+![alt text](<Screenshot 2025-11-07 221253.png>)
 A modern, responsive portfolio website showcasing my skills, experience, projects, and educational background as a Full Stack Developer.
 
 ## Overview
@@ -36,46 +36,6 @@ This portfolio is built with React and features a sleek, professional design wit
 - **PostCSS** - CSS processing
 - **Autoprefixer** - CSS vendor prefixing
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js (v14 or higher)
-- npm or yarn
-
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/Sanskar225/portfolio.git
-cd portfolio
-```
-
-2. Install dependencies
-```bash
-npm install
-```
-
-3. Start the development server
-```bash
-npm run dev
-```
-
-4. Open your browser and navigate to `http://localhost:5173`
-
-### Build for Production
-
-```bash
-npm run build
-```
-
-The built files will be in the `dist` directory.
-
-### Preview Production Build
-
-```bash
-npm run preview
-```
 
 ## Project Structure
 
