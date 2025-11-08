@@ -153,7 +153,7 @@ This project is open source and available under the MIT License.
 
 ## Contact
 
-- **Email**: sanskarsinha@example.com
+- **Email**: sanskarsinha225@example.com
 - **LinkedIn**: [linkedin.com/in/sanskar-sinha-185a36326](https://www.linkedin.com/in/sanskar-sinha-185a36326)
 - **GitHub**: [github.com/Sanskar225](https://github.com/Sanskar225)
 - **Instagram**: [@__sanskar225](https://www.instagram.com/__sanskar225/)
