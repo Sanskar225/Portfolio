@@ -17,7 +17,7 @@ This portfolio is built with React and features a sleek, professional design wit
 - **Dark Theme**: Modern dark theme with grid background and blur blobs
 
 ## Tech Stack
-
+![alt text](<Screenshot 2025-11-07 221253-1.png>)
 ### Frontend
 - **React 18.3.1** - UI library
 - **Vite** - Build tool and development server
