@@ -190,7 +190,7 @@ description:
 'An internal management system for CPByte (the technical club at KIET). The portal provides club members tools to manage activities, track progress, and handle administrative tasks in one place.',
 image: CPBYTE_LOGO,
 tags: ['React', 'Node.js', 'UI/UX'],
-// github: 'https://github.com/Sanskar225/cpbyte-student-portal',
+github: 'https://github.com/Sanskar225/cpbyte-student-portal',
 // webapp: 'https://cpbytestudentportal.netlify.app/',
 },
     {
