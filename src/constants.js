@@ -235,7 +235,7 @@ webapp: 'https://cpbytestudentportal.netlify.app/',
     },
     {
       id: 5,
-      title: "sewa",
+      title: "sewa setu",
       description:
         "",
       // image: webverLogo,
