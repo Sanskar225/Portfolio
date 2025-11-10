@@ -205,7 +205,7 @@ webapp: 'https://cpbytestudentportal.netlify.app/',
     },
     {
       id: 2,
-      title: "",
+      title: "rental",
       description:
         "",
       // image: movierecLogo,
