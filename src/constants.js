@@ -157,7 +157,7 @@ export const SkillsInfo = [
       img: glaLogo,
       school: "KIET group of institution, Ghaziabad",
       date: "Sept 2024 - July 2028",
-      grade: "8.33 CGPA",
+      grade: "7.76 CGPA",
       desc: "I have completed my Bachelor's degree (B.tech) in Computer Applications from KIET group of institution, Ghaziabad. During my time at KIET, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as .... .",
       degree: "Bachelor of Technology of CSIT - B.tech",
     },
@@ -183,16 +183,16 @@ export const SkillsInfo = [
   ];
   
   export const projects = [
-    {
-      id: 0,
-      title: "",
-      description:
-        "",
-      // image: githubdetLogo,
-      tags: [],
-      github: "",
-      webapp: "",
-    },
+   {
+id: 0,
+title: 'CPByte Student Portal',
+description:
+'An internal management system for CPByte (the technical club at KIET). The portal provides club members tools to manage activities, track progress, and handle administrative tasks in one place.',
+image: CPBYTE_LOGO,
+tags: ['React', 'Node.js', 'UI/UX'],
+// github: 'https://github.com/Sanskar225/cpbyte-student-portal',
+// webapp: 'https://cpbytestudentportal.netlify.app/',
+},
     {
       id: 1,
       title: "",
