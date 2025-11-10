@@ -191,7 +191,7 @@ description:
 image: CPBYTE_LOGO,
 tags: ['React', 'Node.js', 'UI/UX'],
 github: 'https://github.com/Sanskar225/cpbyte-student-portal',
-// webapp: 'https://cpbytestudentportal.netlify.app/',
+webapp: 'https://cpbytestudentportal.netlify.app/',
 },
     {
       id: 1,
