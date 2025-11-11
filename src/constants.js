@@ -252,7 +252,7 @@ webapp: 'https://cpbytestudentportal.netlify.app/',
       description:
         "A full-stack project management application built with Next.js, Express, PostgreSQL, and AWS services. This application provides comprehensive project tracking, task management, team collaboration, and real-time updates to enhance productivity and streamline workflows.",
       // image: npmLogo,
-      tags: [],
+      tags: ["Next,js","TypeScript","ExpressJS","PostgreSQL","AWS S3","AWS Amplify", "Figma","PM2","AWS EC2","AWS Cognito","RDS","Prisma ORM","Git","GitHub","VS Code","Postman"],
       github: "https://github.com/Sanskar225/project-management",
       webapp: "https://main.drc6heay0wmdb.amplifyapp.com/",
     },
