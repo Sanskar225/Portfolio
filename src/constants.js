@@ -45,7 +45,7 @@ import vpsLogo from './assets/education_logo/sma_logo.png';
 // import cmLogo from './assets/work_logo/cm.png';
 // import imagesearchLogo from './assets/work_logo/image_search.png';
 // import removebgLogo from './assets/work_logo/remove_bg.png';
-
+import chatty from './assets/work_logo/chatty.png';
 
 export const SkillsInfo = [
   {
@@ -190,8 +190,7 @@ description:
 'An internal management system for CPByte (the technical club at KIET). The portal provides club members tools to manage activities, track progress, and handle administrative tasks in one place.',
 image: CPBYTE_LOGO,
 tags: ['React', 'Node.js', 'UI/UX', "postgreSQL",
-     "ReactJS",
-        "NodeJS",
+     
         "ExpressJS",
          
         "Figma",
@@ -208,8 +207,8 @@ webapp: 'https://cpbytestudentportal.netlify.app/',
       id: 1,
       title: "ChatApp with Flow",
       description:
-        "",
-      // image: csprepLogo,
+        "This project aims to provide a real-time chat experience that's both scalable and secure. With a focus on modern technologies, we're building an application that's easy to use and maintain.",
+       image: chatty,
         tags: [],
       github: "https://github.com/Sanskar225/chatapp",
       webapp: "https://full-stack-chat-app-xi.vercel.app/login",
