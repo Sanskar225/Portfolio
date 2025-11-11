@@ -97,6 +97,7 @@ export const SkillsInfo = [
 ];
 
   export const experiences = [
+    
     {
       id: 0,
       img: odooLogo,
@@ -143,10 +144,16 @@ export const SkillsInfo = [
       id: 2,
        img: webverLogo,
       role: "Frontend Developer Intern",
-      company: "",
-      date: "",
-      desc: "",
+      company: "webverse digital",
+      date: "27Sept 2025 - 26 Nov 2025",
+      desc: " Worked as a Frontend Developer Intern at Webverse Digital, where I was responsible for designing and implementing user interfaces for various web applications. Collaborated with the design team to ensure a seamless user experience and optimized website performance across different devices.",
       skills: [
+        "ReactJS",
+        "git",
+        "GitHub",
+        "VS Code",
+        "Figma",
+        "Netlify",
         
       ],
     },
