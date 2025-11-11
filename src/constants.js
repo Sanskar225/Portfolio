@@ -230,7 +230,7 @@ webapp: 'https://cpbytestudentportal.netlify.app/',
         "AI-Powered Sustainable Rental Platform — RentFlow is an innovative rental platform that leverages AI to connect eco-conscious renters with sustainable products. Our mission is to promote environmental responsibility by making it easy for users to find and rent items that align with their values.",
        image: ecoRent,
       tags: [],
-      github: "",
+      github: "https://github.com/Sanskar225/Rental_Management_113",
       webapp: "",
     },
     {
