@@ -250,7 +250,7 @@ webapp: 'https://cpbytestudentportal.netlify.app/',
       id: 3,
       title: "project management system",
       description:
-        "",
+        "A full-stack project management application built with Next.js, Express, PostgreSQL, and AWS services. This application provides comprehensive project tracking, task management, team collaboration, and real-time updates to enhance productivity and streamline workflows.",
       // image: npmLogo,
       tags: [],
       github: "https://github.com/Sanskar225/project-management",
