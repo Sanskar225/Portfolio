@@ -254,7 +254,7 @@ webapp: 'https://cpbytestudentportal.netlify.app/',
       // image: npmLogo,
       tags: [],
       github: "https://github.com/Sanskar225/project-management",
-      webapp: "",
+      webapp: "https://main.drc6heay0wmdb.amplifyapp.com/",
     },
     {
       id: 4,
