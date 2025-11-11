@@ -209,7 +209,17 @@ webapp: 'https://cpbytestudentportal.netlify.app/',
       description:
         "This project aims to provide a real-time chat experience that's both scalable and secure. With a focus on modern technologies, we're building an application that's easy to use and maintain.",
        image: chatty,
-        tags: [],
+        tags: ['React', 'Node.js', 'UI/UX', "postgreSQL",
+     
+        "ExpressJS",
+         
+        "Figma",
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Postman",
+        "Vercel",
+        "Netlify", ],
       github: "https://github.com/Sanskar225/chatapp",
       webapp: "https://full-stack-chat-app-xi.vercel.app/login",
     },
