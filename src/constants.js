@@ -46,7 +46,7 @@ import vpsLogo from './assets/education_logo/sma_logo.png';
 // import imagesearchLogo from './assets/work_logo/image_search.png';
 // import removebgLogo from './assets/work_logo/remove_bg.png';
 import chatty from './assets/work_logo/chatty.png';
-
+import ecoRent from './assets/work_logo/ecoRent.png';
 export const SkillsInfo = [
   {
     title: 'Frontend',
@@ -225,10 +225,10 @@ webapp: 'https://cpbytestudentportal.netlify.app/',
     },
     {
       id: 2,
-      title: "rental",
+      title: "ecoRent",
       description:
-        "",
-      // image: movierecLogo,
+        "AI-Powered Sustainable Rental Platform — RentFlow is an innovative rental platform that leverages AI to connect eco-conscious renters with sustainable products. Our mission is to promote environmental responsibility by making it easy for users to find and rent items that align with their values.",
+       image: ecoRent,
       tags: [],
       github: "",
       webapp: "",
