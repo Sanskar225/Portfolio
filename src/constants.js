@@ -47,6 +47,7 @@ import vpsLogo from './assets/education_logo/sma_logo.png';
 // import removebgLogo from './assets/work_logo/remove_bg.png';
 import chatty from './assets/work_logo/chatty.png';
 import ecoRent from './assets/work_logo/ecoRent.png';
+import projectManagement from './assets/work_logo/projectManagement.png';
 export const SkillsInfo = [
   {
     title: 'Frontend',
