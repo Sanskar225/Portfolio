@@ -243,34 +243,34 @@ webapp: 'https://cpbytestudentportal.netlify.app/',
       github: "",
       webapp: "",
     },
-    {
-      id: 6,
-      title: "",
-      description:
-        "",
-      // image: cmLogo,
-      tags: [],
-      github: "",
-      webapp: "",
-    },
-    {
-      id: 7,
-      title: "",
-      description:
-        "",
-      // image: imagesearchLogo,
-      tags: [],
-      github: "",
-      webapp: "",
-    },
-    {
-      id: 8,
-      title: "",
-      description:
-        "",
-      // image: removebgLogo,
-      tags: [],
-      github: "",
-      webapp: "",
-    },
-  ];  
+  //   {
+  //     id: 6,
+  //     title: "",
+  //     description:
+  //       "",
+  //     // image: cmLogo,
+  //     tags: [],
+  //     github: "",
+  //     webapp: "",
+  //   },
+  //   {
+  //     id: 7,
+  //     title: "",
+  //     description:
+  //       "",
+  //     // image: imagesearchLogo,
+  //     tags: [],
+  //     github: "",
+  //     webapp: "",
+  //   },
+  //   {
+  //     id: 8,
+  //     title: "",
+  //     description:
+  //       "",
+  //     // image: removebgLogo,
+  //     tags: [],
+  //     github: "",
+  //     webapp: "",
+  //   },
+  // ];  
