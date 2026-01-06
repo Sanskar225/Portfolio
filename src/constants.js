@@ -229,7 +229,7 @@ webapp: 'https://cpbytestudentportal.netlify.app/',
         "Vercel",
         "Netlify", ],
       github: "https://github.com/Sanskar225/chatapp",
-      webapp: "https://full-stack-chat-app-xi.vercel.app/login",
+      webapp: "https://chat-app-main-1-tik7.onrender.com/",
     },
     {
       id: 2,
