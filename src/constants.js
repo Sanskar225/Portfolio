@@ -34,7 +34,7 @@ import CPBYTE_LOGO from './assets/company_logo/CPBYTE_LOGO.png';
 import glaLogo from './assets/education_logo/kiet_logo.png';
 import bsaLogo from './assets/education_logo/mps.png';
 import vpsLogo from './assets/education_logo/sma_logo.png';
-
+import projectmanagementdashboard from'./assets/work_logo/projectmanagementdashboard.png';
 // Project Section Logo's
 // import githubdetLogo from './assets/work_logo/github_det.png';
 // import csprepLogo from './assets/work_logo/cs_prep.png';
@@ -266,24 +266,24 @@ webapp: 'https://cpbytestudentportal.netlify.app/',
     },
     {
       id: 4,
-      title: "connectflow",
+      title: "Product Management Dashboard",
       description:
-        "",
-      // image: taskremLogo,
-      tags: [],
-      github: "",
-      webapp: "",
+        "A modern, production-ready product management dashboard built with React, TypeScript, and Three.js. Features include real-time search with debouncing, advanced filtering and sorting, dual-view modes, and a stunning 3D particle background.",
+      image: projectmanagementdashboard,
+      tags: ["React","TypeScript","Three.js","Figma","Git","GitHub","VS Code","Vercel"],
+      github: "https://github.com/Sanskar225/frontend-product-dashboard",
+      webapp: "https://frontend-product-dashboard-2r95.vercel.app/",
     },
-    {
-      id: 5,
-      title: "sewa setu",
-      description:
-        "",
-      // image: webverLogo,
-      tags: [],
-      github: "",
-      webapp: "",
-    },
+    // {
+    //   id: 5,
+    //   title: "sewa setu",
+    //   description:
+    //     "",
+    //   // image: webverLogo,
+    //   tags: [],
+    //   github: "",
+    //   webapp: "",
+    // },
   //   {
   //     id: 6,
   //     title: "",
