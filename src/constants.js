@@ -48,6 +48,7 @@ import projectmanagementdashboard from'./assets/work_logo/projectmanagementdashb
 import chatty from './assets/work_logo/chatty.png';
 import ecoRent from './assets/work_logo/ecoRent.png';
 import projectManagement from './assets/work_logo/projectManagement.png';
+import gigflow from './assets/work_logo/gigflow.png';
 export const SkillsInfo = [
   {
     title: 'Frontend',
@@ -274,16 +275,16 @@ webapp: 'https://cpbytestudentportal.netlify.app/',
       github: "https://github.com/Sanskar225/frontend-product-dashboard",
       webapp: "https://frontend-product-dashboard-2r95.vercel.app/",
     },
-    // {
-    //   id: 5,
-    //   title: "sewa setu",
-    //   description:
-    //     "",
-    //   // image: webverLogo,
-    //   tags: [],
-    //   github: "",
-    //   webapp: "",
-    // },
+    {
+      id: 5,
+      title: "Gigflow",
+      description:
+        "The project focuses on implementing real-world backend workflows such as user role separation, secure hiring logic, and scalable API design.",
+       image: gigflow,
+      tags: ["React","Node.js","ExpressJS","MongoDB","Figma","Git","GitHub","VS Code","Postman","Vercel","Netlify"],
+      github: "https://github.com/Sanskar225/frontend-GIG",
+      webapp: "https://frontend-gig.vercel.app",
+    },
   //   {
   //     id: 6,
   //     title: "",
