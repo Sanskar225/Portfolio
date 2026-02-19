@@ -23,13 +23,13 @@ import figmaLogo from './assets/tech_logo/figma.png';
 import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
 import postgreLogo from './assets/tech_logo/postgre.png';
-import swoc_logo from './assets/tech_logo/swoc.png';
 // Experience Section Logo's
 // import webverseLogo from './assets/company_logo/webverse_logo.png';
 // import agcLogo from './assets/company_logo/agc_logo.png';
 // import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 import odooLogo from './assets/company_logo/ODOO_LOGO.png';
 import CPBYTE_LOGO from './assets/company_logo/CPBYTE_LOGO.png';
+import swoc_logo from './assets/company_logo/swoc_logo.png';
 // Education Section Logo's
 import glaLogo from './assets/education_logo/kiet_logo.png';
 import bsaLogo from './assets/education_logo/mps.png';
@@ -176,7 +176,7 @@ export const SkillsInfo = [
         "ExpressJS",
         "postgreSQL",
         "aws",
-        
+
 
         
       ],
