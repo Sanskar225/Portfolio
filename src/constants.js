@@ -161,10 +161,10 @@ export const SkillsInfo = [
      {
       id: 3,
        img: swoc_logo,
-      role: "Frontend Developer Intern",
-      company: "webverse digital",
+      role: "SWOC'26 MENTOR",
+      company: "SWOC (social winter of code) ",
       date: "27Sept 2025 - 26 Nov 2025",
-      desc: " Worked as a Frontend Developer Intern at Webverse Digital, where I was responsible for designing and implementing user interfaces for various web applications. Collaborated with the design team to ensure a seamless user experience and optimized website performance across different devices.",
+      desc: " Worked as a Mentor at SWOC, where I was responsible for designing and implementing user interfaces for various web applications. Collaborated with the design team to ensure a seamless user experience and optimized website performance across different devices.",
       skills: [
         "ReactJS",
         "git",
@@ -172,6 +172,12 @@ export const SkillsInfo = [
         "VS Code",
         "Figma",
         "Netlify",
+        "nodeJS",
+        "ExpressJS",
+        "postgreSQL",
+        "aws",
+        
+
         
       ],
     },
